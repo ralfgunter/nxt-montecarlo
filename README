@@ -1,0 +1,5 @@
+Modification of Martin Laubach's particle filters demo.
+
+Implements the Monte Carlo Localization algorithm on a host computer, which sends movement commands to an LEGO Mindstorms robot.
+
+Uses RWTH Aachen's MotorControl toolbox. See http://www.mindstorms.rwth-aachen.de/trac/wiki/MotorControl
